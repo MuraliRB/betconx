@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+.main-title {
+  font-family: 'Montserrat', sans-serif;
+}
+.sub2 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.title-container {
+  margin-top: 50px;
+}
+.ms {
+  margin-left: 110px;
+  position: relative;
+  top: 30px;
+}
+.btn-light2 {
+  position: relative;
+  bottom: 40px;
+  border: 0.5px solid #ffffff;
+  border-radius: 10px;
+}
+.btn-light2:hover {
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+}
+
+#sub-title {
+  position: relative;
+  top: 20px;
+}
+.ms2 {
+  color: #ffffff;
+  margin-left: 110px;
+  position: relative;
+  top: 50px;
+}
+.num {
+  font-weight: 900;
+  font-size: 80px;
+}
+h6 {
+  margin-left: 90px;
+  position: relative;
+  bottom: 70px;
+}
+.desc1 {
+  margin-left: 90px;
+  position: relative;
+  bottom: 70px;
+}
+.ms3 {
+}
+
+.features1 {
+  margin-left: 80px;
+  position: relative;
+  bottom: 68px;
+}
+.icon {
+  width: 70px;
+  height: 70px;
+}
+.feature-desc {
+  font-size: 13px;
+  margin-left: 80px;
+  position: relative;
+  bottom: 70px;
+}
+.icon-child {
+  width: 70px;
+  height: 70px;
+  margin-top: 40px;
+  position: relative;
+  left: 15px;
+}
+.services-title {
+  margin-left: 180px;
+  position: relative;
+  bottom: 80px;
+}
+.services-desc {
+  font-size: 13px;
+  margin-left: 180px;
+  position: relative;
+  bottom: 70px;
+}
+.arrow {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  right: 38px;
+}
+.arrow-child {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: 25px;
+  left: 65px;
+}
+.chart {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 30px;
+}
+.bfx-desc {
+  text-align: center;
+  position: relative;
+  left: 325px;
+}
+ul {
+  list-style-type: none;
+}
+
+ul > li:before {
+  content: ' - ';
+  font-size: 20px;
+  font-weight: 700;
+  text-indent: 5px;
+}
+.last-content {
+  width: 100%;
+  height: 20vh;
+}
